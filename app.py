@@ -154,7 +154,7 @@ elif st.session_state.page == 3:
     - Bhavleen Kaur
     - Faizan Hamid
     - Mehak Sharma
-    - Sadhna
+    - Sadhana Rao
     - Prajjwal Gupta
 
     Under the supervision of Ms. Somdatta Patra.
